@@ -24,5 +24,5 @@ This repository contains a comprehensive Discord Verification Bot built using Di
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/discord-verification-bot.git
+   git clone https://github.com/KONGNAML/discord-verification-bot.git
    cd discord-verification-bot
